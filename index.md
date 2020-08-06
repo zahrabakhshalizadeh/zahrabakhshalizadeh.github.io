@@ -4,7 +4,7 @@
  کارشناس تحلیل گر سیستم
 ```
 
-![Logo](https://zahranakhshalizadeh.github.io/pic.png)
+![Logo](https://zahrabakhshalizadeh.github.io/pic.png)
 
 ---
 
